@@ -1,0 +1,15 @@
+{
+  "name": "generator-yeoacademy",
+  "description": "Scaffolding de proyectos de centraal academy",
+  "version": "1.0.0",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^2.0.2"
+  }
+}

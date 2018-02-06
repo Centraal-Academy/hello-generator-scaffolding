@@ -1,0 +1,6 @@
+{
+    "name": "<%= name %>",
+    "description": "Scaffolding de proyectos react de centraal academy",
+    "version": "1.0.0",
+    "license": "MIT"
+}
